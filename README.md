@@ -1,2 +1,3 @@
 # mikaelmonteirodev.github.io
-Meu primeiro website 
+
+My own website and portfolio projects.
