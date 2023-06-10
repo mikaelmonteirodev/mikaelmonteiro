@@ -1,3 +1,3 @@
 # mikaelmonteirodev.github.io
 
-My own website and portfolio projects.
+My own website and portfolio projects. (loading...)
